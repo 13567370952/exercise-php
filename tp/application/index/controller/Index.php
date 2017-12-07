@@ -110,4 +110,6 @@ class  Index {
         Config::set('default_return_type','json');
         return $res;
     }
+
+
 }
